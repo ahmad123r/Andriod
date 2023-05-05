@@ -1,0 +1,3 @@
+com.example.assignment.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

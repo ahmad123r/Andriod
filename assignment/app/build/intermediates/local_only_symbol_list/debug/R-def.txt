@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable buttons_option_bg
+drawable gradient
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable right_answer_bg
+drawable wrong_answer_bg
+id buttonOption1
+id buttonOption2
+id buttonOption3
+id rest
+id textQuestion
+id textQuestionNumber
+id textResult
+id textRightAnswered
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw background
+string app_name
+style Theme.Assignment
+xml backup_rules
+xml data_extraction_rules
